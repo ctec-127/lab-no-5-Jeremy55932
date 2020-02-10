@@ -1,6 +1,5 @@
 /* style.css */
 
-
 body {
     background: #fafafa;
     background: rgba(235, 232, 228, 1.0);
@@ -16,10 +15,7 @@ h3 {
     color: #ffffff;
 }
 
-.card-header a:link,
-.card-header a:visited,
-.card-header a:hover,
-.card-header a:active {
+.card-header a:link, .card-header a:visited, .card-header a:hover, .card-header a:active {
     color: #ffffff;
     font-size: 1.5rem;
     font-weight: bold;
